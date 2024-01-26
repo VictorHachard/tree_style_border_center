@@ -3,7 +3,7 @@
     'name': "Border and Center - Tree View",
     'summary': "Add border and center text tree view",
     'description': "This module add border and center text in tree view",
-    'images': ['static/description/banner.gif'],  # 560x280 px
+    'images': ['static/description/banner.png'],  # 560x280 px
     'category': 'Technical',
     'version': '0.0.1',
     'author': "Victor",
